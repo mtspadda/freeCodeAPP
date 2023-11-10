@@ -1,6 +1,6 @@
 # Welcome to freeCodeAPP! 🚀
 
-freeCodeAPP is a project created for practicing and learning more about Angular 16. This project is developed based on the concepts and techniques taught in the freeCodeAcademy 17-hour course. Whether you are a beginner looking to start your journey in web development or an experienced developer aiming to enhance your skills in Angular, this app is designed to help you explore and apply your knowledge effectively.
+freeCodeAPP is a project created for practicing and learning more about Angular 16. This project is developed based on the concepts and techniques taught in the freeCodeAcademy 17-hour course.
 
 ## About the Project 📚
 
